@@ -1,4 +1,4 @@
-// Server side implementation of TCP client-server model 
+// Server side implementation of UDP client-server model 
 #include <stdio.h> 
 #include <stdlib.h> 
 #include <unistd.h>
